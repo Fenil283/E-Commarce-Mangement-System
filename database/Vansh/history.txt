@@ -1,0 +1,5 @@
+Date & Time             	Product Name            Type           Price     Qty.       Amt.
+Tue Apr 26 22:32:23 2022       Smart TV             Electronics         30        10        300
+Tue Apr 26 22:33:32 2022       Facewash             Cosmetics           10         5         50
+Tue Apr 26 22:33:37 2022       Fan                  House Hold          10        10        100
+Tue Apr 26 22:33:43 2022       Lotion               Cosmetics           10         5         50

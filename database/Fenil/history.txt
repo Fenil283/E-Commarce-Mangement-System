@@ -1,0 +1,7 @@
+Date & Time             	Product Name            Type           Price     Qty.       Amt.
+Tue Apr 26 21:34:55 2022       Smartphone           Electronics         15        10        150
+Tue Apr 26 21:35:00 2022       Fan                  House Hold          10         6         60
+Tue Apr 26 21:35:07 2022       Facewash             Cosmetics           10         5         50
+Tue Apr 26 21:37:32 2022       Smartphone           Electronics         15         1         15
+Tue Apr 26 22:03:31 2022       Facewash             Cosmetics           10         2         20
+Tue Apr 26 22:04:08 2022       Fan                  House Hold          10         5         50
